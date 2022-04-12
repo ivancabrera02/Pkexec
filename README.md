@@ -1,0 +1,2 @@
+# Pkexec
+Privilege escalation
